@@ -1,4 +1,22 @@
-# ༼ つ ◕_◕ ༽つ 
+# Welcome! ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞
+
+I am a second year in university studying Computer Science. My projects consists of video games made in popular game engines like Godot or Unity. My university work is also available in it's own repository, alongside some CS50 assignments. My aim for this year is to dive deep into the world of web programming, while also exploring the .NET framework.
+
+<!-- Social icons section -->
+<p align="left">
+  <a href="www.linkedin.com/in/ionut-cora-a892a72b1"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+### 🧰 Languages and Tools
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />   
+<br />
 
 <!--
 **Reckless312/Reckless312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
