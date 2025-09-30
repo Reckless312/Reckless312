@@ -1,6 +1,6 @@
-# Welcome! ⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞
+# Welcome!
 
-I am a second year in university studying Computer Science. My projects consists of video games made in popular game engines like Godot or Unity. My university work is also available in it's own repository, alongside some CS50 assignments. My aim for this year is to dive deep into the world of web programming, while also exploring the .NET framework.
+I am a third year in university studying Computer Science.
 
 <!-- Social icons section -->
 <p align="left">
