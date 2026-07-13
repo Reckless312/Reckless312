@@ -1,7 +1,5 @@
 # Welcome!
 
-I am a third year in university studying Computer Science.
-
 <!-- Social icons section -->
 <p align="left">
   <a href="https://www.linkedin.com/in/ionut-cora-a892a72b1"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
